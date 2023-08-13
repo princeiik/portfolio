@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.stacks {
+	font-weight: bold;
+}
+
 ol, ul {
 	list-style: none;
 }
